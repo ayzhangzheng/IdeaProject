@@ -11,4 +11,9 @@ public class test1 {
         System.out.println("hello world");
 
     }
+
+    public void test(){
+        int i=0;
+        i=i+10;
+    }
 }
